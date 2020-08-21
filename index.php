@@ -1,3 +1,3 @@
 <?php
-echo "<h1>welcome to my php site , this is my task3 of devops training under vimal daga</h2>";
+echo "<h1>Welcome to Black Pearl</h2>";
 ?>
